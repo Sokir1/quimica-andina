@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+build/
+*.class
+*.jar
+*.log
+*.tmp
+__pycache__/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
